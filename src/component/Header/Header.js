@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
-import logo1 from '../../images/site-logo.png'
 import logo from '../../images/logo2.PNG'
 import './Header.css'
 
@@ -14,28 +13,28 @@ const Header = () => {
                 <Link to="/home" style={{
                     textDecoration: 'none',
                     color: 'White',
-                    marginRight: '20px'
+                    marginRight: '40px'
                 }}>
                     HOME
                 </Link>
                 <Link to="/courses" style={{
                     textDecoration: 'none',
                     color: 'White',
-                    marginRight: '20px'
+                    marginRight: '40px'
                 }}>
                     COURSES
                 </Link>
                 <Link to="/blog" style={{
                     textDecoration: 'none',
                     color: 'White',
-                    marginRight: '20px'
+                    marginRight: '40px'
                 }}>
                     BLOG
                 </Link>
                 <Link to="/about" style={{
                     textDecoration: 'none',
                     color: 'White',
-                    marginRight: '20px'
+                    marginRight: '40px'
                 }}>
                     ABOUT
                 </Link>
