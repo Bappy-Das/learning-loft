@@ -32,7 +32,7 @@ const Blog = () => {
                                     <Card.Body>
                                         <Card.Title>{blog.name}</Card.Title>
                                         <Card.Text>
-                                            {blog.details.slice(0, 300)}
+                                            {blog.details.slice(0, 200)}.....
                                         </Card.Text>
                                         <p>Category : {blog.category}</p>
                                     </Card.Body>
