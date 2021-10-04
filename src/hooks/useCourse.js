@@ -1,4 +1,4 @@
-// import React from 'react';
+// hook for load course data
 
 import { useEffect, useState } from "react";
 

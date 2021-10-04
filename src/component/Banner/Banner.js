@@ -5,7 +5,9 @@ import { useHistory } from 'react-router';
 import banner from '../../images/Cbaner.PNG'
 import './Banner.css'
 
+
 const Banner = () => {
+    // use history function for go courses component
     let history = useHistory();
     const btnHandle = () => {
         history.push("/courses");

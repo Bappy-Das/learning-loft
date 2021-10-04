@@ -9,6 +9,7 @@ const Header = () => {
             <div className="ms-5">
                 <a href="/"><img className="img" src={logo} alt="" srcset="" /></a>
             </div>
+            {/* manu section */}
             <div className="d-flex align-items-center fw-bold me-5">
                 <Link to="/home" style={{
                     textDecoration: 'none',

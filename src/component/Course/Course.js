@@ -2,6 +2,7 @@ import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 import './Course.css'
 
+// Courses component for all courses 
 const Course = (props) => {
     const { name, price, details, img } = props.course;
     return (

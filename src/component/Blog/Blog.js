@@ -3,6 +3,7 @@ import { Card, Col, Container, Row } from 'react-bootstrap';
 import './Blog.css'
 
 const Blog = () => {
+    // blog.json file contaiend blog data
     const [blogs, setBlogs] = useState([]);
     useEffect(() => {
         fetch('./blog.JSON')
@@ -38,8 +39,6 @@ const Blog = () => {
                                     <a className="ms-auto p-4" href="/">Read more</a>
                                 </Card>
                             </Col>
-
-
                         )
                     }
                 </Row>

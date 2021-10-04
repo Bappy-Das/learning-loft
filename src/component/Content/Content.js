@@ -7,6 +7,8 @@ import Course from '../Course/Course';
 
 
 const Content = () => {
+    // Home component
+
     const [courses] = useCourse()
     const data = courses.slice(0, 4);
     return (
