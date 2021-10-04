@@ -8,7 +8,7 @@ const Header = () => {
     return (
         <div className="d-flex align-items-center justify-content-between bg p-2">
             <div className="ms-5">
-                <img className="img" src={logo} alt="" srcset="" />
+                <a href="/"><img className="img" src={logo} alt="" srcset="" /></a>
             </div>
             <div className="d-flex align-items-center fw-bold me-5">
                 <Link to="/home" style={{

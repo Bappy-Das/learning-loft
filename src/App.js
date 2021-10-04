@@ -7,15 +7,15 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Header from './component/Header/Header';
 import Footer from './component/Footer/Footer'
 import Content from './component/Content/Content';
-import { Container } from 'react-bootstrap';
 import Services from './component/Services/Services';
 import Error from './component/Error/Error';
 import Blog from './component/Blog/Blog';
+import ABout from './component/About/ABout';
 
 
 function App() {
   return (
-    // <Container>
+
     <div className="App">
       <Router>
         <Header></Header>
@@ -32,6 +32,9 @@ function App() {
           <Route path="/blog">
             <Blog></Blog>
           </Route>
+          <Route path="/about">
+            <ABout></ABout>
+          </Route>
           <Route path="/*">
             <Error></Error>
           </Route>
@@ -40,7 +43,7 @@ function App() {
       </Router>
 
     </div>
-    // </Container>
+
   );
 }
 
