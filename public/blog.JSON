@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://graphicriver.img.customer.envatousercontent.com/files/261182659/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=1b1816ac803f1c81a7737aabb75b87aa",
+        "name": "Computer Technologies",
+        "details": "Once a plan has been fully created and a design has been established, the developer must construct something to support the plan. It’s possible that the internet tools for simple site development aren’t up to the task. In that situation, a developer will need to devote a significant amount of time. To create something from the start or altering something to meet the project’s unique requirements.\n\n        Developers will need to layout a site in order to satisfy specific aims and expectations. They must consider user experience, calls to action, content, search engine optimization, user agents, and other factors. Before beginning construction on a project, much thought must be put into it.\n        \n        When utilizing an online tool, it may be necessary to adjust the plan to the tool’s constraints. However, if a developer is engaged, the property can be built to satisfy the plan’s requirements."
+    },
+    {
+        "id": 1,
+        "img": "https://graphicriver.img.customer.envatousercontent.com/files/261182659/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=1b1816ac803f1c81a7737aabb75b87aa",
+        "name": "Computer Technologies",
+        "details": "Once a plan has been fully created and a design has been established, the developer must construct something to support the plan. It’s possible that the internet tools for simple site development aren’t up to the task. In that situation, a developer will need to devote a significant amount of time. To create something from the start or altering something to meet the project’s unique requirements.\n\n        Developers will need to layout a site in order to satisfy specific aims and expectations. They must consider user experience, calls to action, content, search engine optimization, user agents, and other factors. Before beginning construction on a project, much thought must be put into it.\n        \n        When utilizing an online tool, it may be necessary to adjust the plan to the tool’s constraints. However, if a developer is engaged, the property can be built to satisfy the plan’s requirements.",
+        "price": 200,
+        "student": 20,
+        "review": 1
+    },
+    {
+        "id": 1,
+        "img": "https://graphicriver.img.customer.envatousercontent.com/files/261182659/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=1b1816ac803f1c81a7737aabb75b87aa",
+        "name": "Computer Technologies",
+        "details": "Once a plan has been fully created and a design has been established, the developer must construct something to support the plan. It’s possible that the internet tools for simple site development aren’t up to the task. In that situation, a developer will need to devote a significant amount of time. To create something from the start or altering something to meet the project’s unique requirements.\n\n        Developers will need to layout a site in order to satisfy specific aims and expectations. They must consider user experience, calls to action, content, search engine optimization, user agents, and other factors. Before beginning construction on a project, much thought must be put into it.\n        \n        When utilizing an online tool, it may be necessary to adjust the plan to the tool’s constraints. However, if a developer is engaged, the property can be built to satisfy the plan’s requirements.",
+        "price": 200,
+        "student": 20,
+        "review": 1
+    }
+]
