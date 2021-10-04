@@ -7,63 +7,63 @@
         "img": "https://siit.com.bd/wp-content/uploads/2015/06/responsive-1.gif"
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Android App Development",
         "details": " With the world going mobile, the importance of apps is increasing by the day. App development hence refers to the creation of applications to be used on mobile devices.",
         "price": 200,
         "img": "https://i0.wp.com/opensourceforu.com/wp-content/uploads/2018/05/Android-app-development.jpg?fit=1987%2C1088&ssl=1"
     },
     {
-        "id": 1,
+        "id": 3,
         "name": "CCNA",
         "details": "The Cisco CCNA network associate certification validates the ability to install, configure, operate, and troubleshoot medium-size routed and switched networks.",
         "price": 200,
         "img": "https://learning.nil.com/assets/News/2019/New-Cisco-CCNA.jpg"
     },
     {
-        "id": 1,
+        "id": 4,
         "name": "Digital Marketing",
         "details": "Digital Marketing is taking over the traditional marketing rapidly. More and more people are engaging with online information and getting habituated with online shopping. ",
         "price": 200,
         "img": "https://neilpatel.com/wp-content/uploads/2021/07/digital-marketing_featured-image.png"
     },
     {
-        "id": 1,
+        "id": 5,
         "name": "Professional Web Development",
         "details": "Web Development consists of two segments front end development and backend development. Front-end Developers work with visual designs of a website and build the sites with using of code. ",
         "price": 200,
         "img": "https://i.pinimg.com/originals/65/9a/6b/659a6b7d030d2560183797bb78c7de5b.jpg"
     },
     {
-        "id": 1,
+        "id": 6,
         "name": "SEO & Amazon Affiliate Marketing",
         "details": "SEO stands for Search Engine Optimization. It is the process of optimizing a website to get organic traffic from search engines.",
         "price": 200,
         "img": "https://www.amijani.com/wp-content/uploads/2018/10/affiliate_marketing_amazon-1170x628.jpg"
     },
     {
-        "id": 1,
+        "id": 7,
         "name": "Social Media Marketing (SMM)",
         "details": "Waking up from sleep and the first thing people do is, log on to their social media profiles. From this it can be inferred easily that how urgent it has become for companies to be on different social media platforms.",
         "price": 200,
         "img": "https://landofstudies.tech/wp-content/uploads/2019/11/social-media.jpg"
     },
     {
-        "id": 1,
+        "id": 8,
         "name": "CompTIA A+",
         "details": "CompTIA A+ 2019 Core 1001 & 1002 is the industry standard for establishing a career in IT. CompTIA A+ certified professionals are proven problem solvers.",
         "price": 200,
         "img": "https://www.pngitem.com/pimgs/m/440-4408782_comptia-a-certification-path-comptia-a-hd-png.png"
     },
     {
-        "id": 1,
+        "id": 9,
         "name": "MikroTik",
         "details": "The network industry continuously looking for talented network professionals. For the mere cause, CISCO Certified Network Associate (CCNA)- Routing and Switching, ",
         "price": 200,
         "img": "https://designs.mikrotik.com/images/large/wall9.jpg"
     },
     {
-        "id": 1,
+        "id": 10,
         "name": "Cyber Security",
         "details": "The Ethical Hacking course will significantly benefit you directing the progressive concepts on Ethical hacking such as corporate intelligence, Vulnerability assessment. ",
         "price": 200,

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Button, Container, Row } from 'react-bootstrap';
+import { Container, Row } from 'react-bootstrap';
 import './About.css'
 
 const ABout = () => {
